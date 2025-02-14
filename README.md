@@ -34,7 +34,7 @@ git clone https://github.com/chvilum/windows-inv_script.git
 
 2. Navigate to the tool directory:
 ```powershell
-cd windows-investigation-tool
+cd windows-Inv_script
 ```
 
 ## Usage
@@ -47,7 +47,7 @@ Set-ExecutionPolicy RemoteSigned
 
 3. Run the script:
 ```powershell
-.\src\Invoke-Investigation.ps1
+.\src\Inv_script.ps1
 ```
 
 The script will create a directory named `Investigation_[timestamp]` in the C:\ drive containing all collected artifacts.
