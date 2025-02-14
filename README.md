@@ -29,7 +29,7 @@ Collects the following artifacts:
 
 1. Clone this repository:
 ```powershell
-git clone https://github.com/schvilum/windows-inv_script.git
+git clone https://github.com/chvilum/windows-inv_script.git
 ```
 
 2. Navigate to the tool directory:
